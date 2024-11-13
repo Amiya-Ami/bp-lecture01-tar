@@ -121,6 +121,17 @@ userObject.email="test1@gmail.com";
 // console.log(userObject.email);
 // console.log(userObject["username"]);
 
+// function ////////////////
+function bbb() {
+
+}
+bbb() ;
+
+//// arrow function 
+const aaa = () => {} ;
+
+//////API ///////////////
+
 const axios = require("axios");
 
 async function FetchAPI(name){
